@@ -129,9 +129,15 @@ projetoUnivesp/
 
 ## 👨‍🎓 Equipe
 
-- **Jonathan** - Desenvolvedor Backend
-- **[Seu Nome]** - Desenvolvedor Frontend
-- **[Outro Nome]** - Gerente de Projeto
+- Bruno Luís Malafaia Siqueira
+- Carlos Henrique Garcia Soares
+- Daniel Marcelo Nascimento de Lima
+- Ednaldo dos Santos
+- Francis Resio Torres
+- Jefferson Câmara Silva
+- Jonathan Vinícius de Oliveira Ferreira
+- Juliano Abraão de Carvalho
+
 
 ## 📄 Licença
 
